@@ -1,0 +1,14 @@
+body
+{
+background-size:cover;
+
+}
+
+#instruct{
+float:left;
+}
+
+.copy_right_footer{
+    position:sticky;
+    
+}
